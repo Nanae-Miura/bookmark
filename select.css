@@ -1,0 +1,10 @@
+h2 {
+    /* color: white; */
+    background: #c2edff;/*背景色*/
+    padding: 0.5em;/*文字まわり（上下左右）の余白*/
+  }
+ .nav{
+    background: #c2edff;/*背景色*/
+    margin-bottom: 50px;
+    height: 30px;
+ }
